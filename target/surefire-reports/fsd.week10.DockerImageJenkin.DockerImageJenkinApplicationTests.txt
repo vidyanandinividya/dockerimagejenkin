@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fsd.week10.DockerImageJenkin.DockerImageJenkinApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.804 s - in fsd.week10.DockerImageJenkin.DockerImageJenkinApplicationTests
